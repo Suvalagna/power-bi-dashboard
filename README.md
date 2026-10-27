@@ -2,3 +2,4 @@
 Tools: Power BI, Power Query, DAX
 Calculated: Total Sales, Profit, YTD
 Features: Cards, Bar Chart, Map, Slicers
+![Dashboard](Dashboard_1.png)
