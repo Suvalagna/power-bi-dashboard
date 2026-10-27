@@ -1,2 +1,4 @@
-# power-bi-dashboard
-An interactive sales dashboard built with Power BI to analyze Motorola mobile sales data. It provides insights into total sales, quantity, transactions, customer ratings, payment methods, mobile models, and city-wise sales using interactive charts, maps, and filters.
+#project 1: Sales Dashboard
+Tools: Power BI, Power Query, DAX
+Calculated: Total Sales, Profit, YTD
+Features: Cards, Bar Chart, Map, Slicers
